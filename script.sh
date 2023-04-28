@@ -1,0 +1,2 @@
+export GITHUB_USERNAME="shellmhjn"
+export GITHUB_REPOSITORY="se2001-21f1005129"
